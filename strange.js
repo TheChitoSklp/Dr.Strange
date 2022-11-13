@@ -10,3 +10,17 @@ for (let i = 0; i < 360; i++) {
 
     portal.appendChild(chispa);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
